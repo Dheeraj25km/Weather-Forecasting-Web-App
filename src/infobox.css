@@ -1,0 +1,10 @@
+.infobox{
+   
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+.card{
+  display: flex;
+  justify-content: center;
+}

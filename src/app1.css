@@ -1,0 +1,9 @@
+.app-container {
+    background-image:url('https://github.com/gauravghai/weatherApp-Reactjs/blob/master/src/images/background.jpg?raw=true');
+    background-size: cover; 
+    background-position: center;
+   
+}
+body{
+    margin: 0;
+}
